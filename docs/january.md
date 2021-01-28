@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "January"
-permalink: /01-january/
+layout: post
+title: "MotM2021: January"
+permalink: /01-january
 ---
 
 ### January
