@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
+title: :mailbox_with_mail: :notes: Hannah's Mix of the Month Club 2021
+logo: assets/logo.jpg
 plugins:
   - jemoji
