@@ -10,7 +10,7 @@ _Welcome to my Mix of the Month club---2021 edition! Without further ado (becaus
 
 <iframe src="https://open.spotify.com/embed/playlist/3btOeTQOpWh2SLXk6GgJc4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-[_[direct link to that same playlist on Spotify]_](https://open.spotify.com/playlist/3btOeTQOpWh2SLXk6GgJc4?si=x4QgZdhxTqe-el0Wh0JuTw)
+[_[direct link to this same playlist on Spotify]_](https://open.spotify.com/playlist/3btOeTQOpWh2SLXk6GgJc4?si=x4QgZdhxTqe-el0Wh0JuTw)
 
 -----
 
@@ -23,4 +23,4 @@ _Welcome to my Mix of the Month club---2021 edition! Without further ado (becaus
 
 - LMK if you or someone you know would like to be subscribed!
 
-[_[back to all mixes published this year]_](hannahilea.github.io/2021-mix-of-the-month-club)
+[_[back to all mixes published this year]_](../index.md)
