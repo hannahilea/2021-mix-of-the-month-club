@@ -6,7 +6,7 @@ permalink: 01-ca0fa1d1-8b0d-41a2-a549-fd99894e7a51/01-january
 
 _Welcome to my Mix of the Month club---2021 edition! Without further ado (because the month is nearly out), here is..._
 
-![Tape cassette with "January" label](../assets/01-jan.jpg){: .center-image }
+![Tape cassette with "January" label](../assets/01-jan.jpg)
 
 <iframe src="https://open.spotify.com/embed/playlist/3btOeTQOpWh2SLXk6GgJc4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -23,4 +23,4 @@ _Welcome to my Mix of the Month club---2021 edition! Without further ado (becaus
 
 - LMK if you or someone you know would like to be subscribed!
 
-[_[back to all mixes published this year]_](/index)
+[_[back to all mixes published this year]_](hannahilea.github.io/2021-mix-of-the-month-club)
