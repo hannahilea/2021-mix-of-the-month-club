@@ -3,11 +3,7 @@ title: "MotM2021: February"
 permalink: 02-f346dd89-c517-4735-b567-7f77f90c8b7a/02-february
 ---
 
-Trying something new this month---some additional reading along with the music.
-
-## February's...
-
-### ...Mix
+## February's Mix
 
 <iframe src="https://open.spotify.com/embed/playlist/59LsqWanRpkaFGmTxlx6jE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
