@@ -13,7 +13,7 @@ Welcome to my Mix of the Month club---2021 edition! Without further ado (because
 
 #### Playlist Characteristics
 
-![January Radar Chart](../assets/{{site.data.playlists.radarFileName[1]}})
+![January Radar Chart](../assets/jan2021-radar.png)
 
 -----
 
