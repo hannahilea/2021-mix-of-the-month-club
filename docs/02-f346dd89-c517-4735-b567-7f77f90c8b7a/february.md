@@ -9,6 +9,10 @@ permalink: 02-f346dd89-c517-4735-b567-7f77f90c8b7a/02-february
 
 [_[direct link to this same playlist on Spotify]_](https://open.spotify.com/playlist/59LsqWanRpkaFGmTxlx6jE?si=A-XjA70RRQO0imOJ2YSAng)
 
+#### Playlist Characteristics
+
+![February Radar Chart](../assets/feb2021-radar.png)
+
 #### Club Deets
 - If you don't use Spotify, please let me know so that I can strategize for future months. :)
 
