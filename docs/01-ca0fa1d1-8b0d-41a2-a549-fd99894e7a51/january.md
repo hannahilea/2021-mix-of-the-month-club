@@ -11,6 +11,10 @@ Welcome to my Mix of the Month club---2021 edition! Without further ado (because
 
 [_[direct link to this same playlist on Spotify]_](https://open.spotify.com/playlist/2iFlt7F1azJXxclou9ze0M?si=GpSW_X-NRZG97Jx_NCPm3Q)
 
+#### Playlist Characteristics
+
+![January Radar Chart](../jan2021-radar.png)
+
 -----
 
 #### Club Deets
