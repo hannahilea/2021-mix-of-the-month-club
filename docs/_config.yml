@@ -7,3 +7,12 @@ collections_dir: collections
 collections:
   months:
     output: true
+    sort_by: path
+defaults:
+-
+  scope:
+    path: ""
+    type: "months"
+  values:
+    layout: "default"
+    title: {{ page.name }}
