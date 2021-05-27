@@ -1,15 +1,5 @@
+theme: jekyll-theme-minimal
 title: Mix of the Month Club 2021
 logo: assets/logo.jpg
-theme: jekyll-theme-minimal
 plugins:
   - jemoji
-  - jekyll-datapage-generator
-
-# Per-month info
-page_gen-dirs: true
-page_gen:
-- data: months
-  template: month
-  name: permalink
-  title: month
-  debug: false
