@@ -123,6 +123,7 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
+    jekyll-datapage-generator (1.3.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
@@ -221,6 +222,8 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.11.6-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.11.6-x86_64-darwin)
+      racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -266,6 +269,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 215)
+  jekyll-datapage-generator
   jekyll-theme-minimal
   tzinfo (~> 1.2)
   tzinfo-data

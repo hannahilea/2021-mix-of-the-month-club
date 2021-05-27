@@ -3,16 +3,13 @@ logo: assets/logo.jpg
 theme: jekyll-theme-minimal
 plugins:
   # - jemoji
-collections_dir: collections
-collections:
-  months:
-    output: true
-    sort_by: path
-defaults:
--
-  scope:
-    path: ""
-    type: "months"
-  values:
-    layout: "default"
-    title: {{ page.name }}
+  - jekyll-datapage-generator
+
+# Per-month info
+page_gen-dirs: true
+page_gen:
+- data: monthly_playlists
+  template: monthly_mix
+  name: permalink
+  title: month
+  debug: true #FALSE
