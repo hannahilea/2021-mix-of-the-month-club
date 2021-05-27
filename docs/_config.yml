@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
 title: Mix of the Month Club 2021
 logo: assets/logo.jpg
+theme: jekyll-theme-minimal
 plugins:
   - jemoji

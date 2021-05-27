@@ -7,3 +7,10 @@ title: "MotM2021: Table of Contents"
 - [February](02-f346dd89-c517-4735-b567-7f77f90c8b7a/02-february)
 - [March](03-27d50a32-fba6-4cf8-aa72-a11cfc0f1b27/03-march)
 - [April](04-2fa9e6c7-cba5-47fb-8645-759c0263d11d/04-april)
+
+<!-- ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+--- -->
