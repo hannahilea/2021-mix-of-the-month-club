@@ -11,3 +11,5 @@ title: "MotM2021: Table of Contents"
     </li>
 {% endfor %}
 </ul>
+
+_Feature characteristics radar plots courtesy of [MBarrows20](https://github.com/MBarrows20)---thanks, Michael!!_
