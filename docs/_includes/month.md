@@ -1,8 +1,10 @@
-## {{ page.title }}'s Mix
+{{ page.intro }})
+
+## {{ page.month }}'s Mix
 
 <iframe src="https://open.spotify.com/embed/playlist/{{ page.spotify_link_embedded }}" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-[_[direct link to this same playlist on Spotify]_](https://open.spotify.com/playlist/{{ month.spotify_link_direct }})
+[_[direct link to this same playlist on Spotify]_](https://open.spotify.com/playlist/{{ page.spotify_link_direct }})
 
 -----
 
@@ -15,4 +17,4 @@
 
 - LMK if you or someone you know would like to be subscribed!
 
-[_[back to all mixes published this year]_](../index.md)
+[_[back to all mixes published this year]_](../index.html)

@@ -2,7 +2,7 @@ title: Mix of the Month Club 2021
 logo: assets/logo.jpg
 theme: jekyll-theme-minimal
 plugins:
-  # - jemoji
+  - jemoji
 collections_dir: collections
 collections:
   months:
@@ -15,4 +15,4 @@ defaults:
     type: "months"
   values:
     layout: "default"
-    title: {{ page.name }}
+    title: {{ page.month }}
