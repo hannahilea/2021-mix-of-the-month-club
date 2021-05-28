@@ -6,8 +6,6 @@
 
 [_[direct link to this same playlist on Spotify]_](https://open.spotify.com/playlist/{{ page.spotify_link_direct }})
 
-![]({{ site.baseurl }}assets/radar_chart_{{ page.spotify_link_embedded }}.png)
-
 <img src="{{ site.baseurl }}assets/radar_plot_{{ page.spotify_link_embedded }}.png" alt="Radar chart" width="300"/>
 
 -----

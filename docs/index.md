@@ -11,3 +11,7 @@ title: "MotM2021: Table of Contents"
     </li>
 {% endfor %}
 </ul>
+
+rel_url: {{ relative_url }}
+site.baseurl: {{ site.baseurl }}
+absolute_url: {{ absolute_url }}
