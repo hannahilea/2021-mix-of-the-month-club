@@ -11,3 +11,5 @@ title: "MotM2021: Table of Contents"
     </li>
 {% endfor %}
 </ul>
+
+{{ site.baseurl }}
