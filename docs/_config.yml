@@ -15,4 +15,3 @@ defaults:
     type: "months"
   values:
     layout: "default"
-    title: {{ page.month }}

@@ -1,6 +1,6 @@
-{{ page.intro }})
+{{ page.intro }}
 
-## {{ page.month }}'s Mix
+## {{ page.title }}'s Mix
 
 <iframe src="https://open.spotify.com/embed/playlist/{{ page.spotify_link_embedded }}" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
