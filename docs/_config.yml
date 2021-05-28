@@ -3,7 +3,7 @@ logo: assets/logo.jpg
 theme: jekyll-theme-minimal
 plugins:
   - jemoji
-# baseurl: https://hannahilea.github.io/
+baseurl: https://hannahilea.github.io/2021-mix-of-the-month-club/
 collections_dir: collections
 collections:
   months:

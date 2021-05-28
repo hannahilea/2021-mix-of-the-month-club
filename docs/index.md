@@ -7,11 +7,7 @@ title: "MotM2021: Table of Contents"
 {% for month in site.months %}
     <li>
         <a href="{{ site.baseurl }}{{ month.permalink }}">{{ month.title }}</a><br>
-        <img src="{{ site.baseurl }}assets/radar_plot_{{ month.spotify_link_embedded }}.png" alt="Radar chart" width="300"/>
+        <img src="{{ site.baseurl }}/assets/radar_plot_{{ month.spotify_link_embedded }}.png" alt="Radar chart" width="300"/>
     </li>
 {% endfor %}
 </ul>
-
-rel_url: {{ relative_url }}
-site.baseurl: {{ site.baseurl }}
-absolute_url: {{ absolute_url }}
