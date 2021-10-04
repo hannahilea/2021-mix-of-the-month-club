@@ -15,4 +15,5 @@ export SPOTIFY_CLIENT_ID=<your_client_id> # generate at https://developer.spotif
 export SPOTIFY_CLIENT_SECRET=<your_secret> # ditto
 export PLAYLIST_ID=<id> # This is the same value as `spotify_link_embedded`, above
 python3 scripts/make_radar_plot.py
+python3 scripts/scrape_playlists.py
 ```
